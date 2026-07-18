@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "YS Tax News feed v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "feed_version", "generated_at", "articles"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "feed_version": { "type": "integer", "minimum": 1 },
+    "generated_at": { "type": "string", "format": "date-time" },
+    "articles": {
+      "type": "array",
+      "maxItems": 200,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "status", "published_at", "legal_status", "source_type",
+                     "source_urls", "locales", "content_hash"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^n[0-9]{4}-[0-9a-f]{8}$" },
+          "status": { "enum": ["published", "unpublished"] },
+          "published_at": { "type": "string", "format": "date-time" },
+          "updated_at": { "type": "string", "format": "date-time" },
+          "legal_status": { "enum": ["proposal", "parliamentary_discussion", "adopted",
+                                      "signed", "effective", "withdrawn", "informational"] },
+          "source_type": { "enum": ["official", "parliament", "professional_analysis", "media"] },
+          "effective_date": { "type": "string", "format": "date" },
+          "tax_year": { "type": "integer", "minimum": 2025, "maximum": 2035 },
+          "affects_calculator": { "type": "boolean" },
+          "requires_app_update": { "type": "boolean" },
+          "source_urls": { "type": "array", "minItems": 1, "maxItems": 8,
+                           "items": { "type": "string", "pattern": "^https://" } },
+          "quotes": {
+            "type": "array", "maxItems": 2,
+            "items": { "type": "object", "additionalProperties": false,
+              "required": ["original", "lang", "source_url", "hash"],
+              "properties": {
+                "original": { "type": "string", "maxLength": 500 },
+                "lang": { "enum": ["en", "el", "ru"] },
+                "attribution": { "type": "string", "maxLength": 200 },
+                "source_url": { "type": "string", "pattern": "^https://" },
+                "extracted_at": { "type": "string", "format": "date-time" },
+                "hash": { "type": "string", "pattern": "^[0-9a-f]{64}$" } } } },
+          "locales": {
+            "type": "object", "additionalProperties": false, "required": ["en"],
+            "properties": {
+              "en": { "$ref": "#/$defs/localeBlock" },
+              "ru": { "$ref": "#/$defs/localeBlock" },
+              "el": { "$ref": "#/$defs/localeBlock" } } },
+          "image": { "type": "string", "pattern": "^images/n[0-9]{4}-[0-9a-f]{8}\\.(png|jpg|webp)$" },
+          "image_alt": { "type": "object", "additionalProperties": false,
+            "properties": { "en": {"type":"string","maxLength":200},
+                            "ru": {"type":"string","maxLength":200},
+                            "el": {"type":"string","maxLength":200} } },
+          "content_hash": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "localeBlock": {
+      "type": "object", "additionalProperties": false,
+      "required": ["headline", "summary", "body", "disclaimer"],
+      "properties": {
+        "headline": { "type": "string", "maxLength": 120 },
+        "summary": { "type": "string", "maxLength": 600 },
+        "body": { "type": "string", "maxLength": 4000 },
+        "quote_rendered": { "type": "string", "maxLength": 700 },
+        "disclaimer": { "type": "string", "maxLength": 200 }
+      }
+    }
+  }
+}
