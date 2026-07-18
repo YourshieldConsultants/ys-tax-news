@@ -1,6 +1,438 @@
 {
   "schema_version": 1,
   "feed_version": 1,
-  "generated_at": "2026-07-18T13:00:00Z",
-  "articles": []
+  "generated_at": "2026-07-18T18:45:00Z",
+  "articles": [
+    {
+      "id": "n0001-f71a0e79",
+      "status": "published",
+      "published_at": "2026-01-01T08:00:00Z",
+      "legal_status": "effective",
+      "source_type": "official",
+      "effective_date": "2026-01-01",
+      "tax_year": 2026,
+      "affects_calculator": true,
+      "requires_app_update": false,
+      "source_urls": [
+        "https://cyprus-mail.com/2025/12/22/house-approves-tax-reform-bills",
+        "https://globaltaxnews.ey.com/news/2026-0140-cyprus-enacts-major-tax-reform-legislation",
+        "https://www.tridenttrust.com/knowledge/news/summary-of-cyprus-s-2026-tax-reforms",
+        "https://www.sovereigngroup.com/news/cyprus-brings-comprehensive-tax-reform-into-force/"
+      ],
+      "locales": {
+        "en": {
+          "headline": "Cyprus enacts first broad tax reform in over a decade",
+          "summary": "Cyprus's comprehensive 2026 tax reform took effect on 1 January 2026, reshaping personal income tax bands, adding new personal deductions, cutting the Special Defence Contribution on dividends, raising the corporate tax rate to 15%, and abolishing stamp duty on most transactions. For individuals, it changes how much income tax you pay and introduces new deductions for children, primary-residence housing, green upgrades, and insurance.",
+          "body": "The reform affects all individual taxpayers in Cyprus. The House of Representatives approved the package on 22 December 2025, it was published in the Government Gazette on 31 December 2025, and it took effect on 1 January 2026. It reshapes the personal income tax bands, adds new personal deductions (children, primary-residence housing, green upgrades, and insurance), cuts the Special Defence Contribution on dividends, raises the corporate tax rate to 15%, and abolishes stamp duty on most transactions. It is Cyprus's first broad tax overhaul in over a decade and mainly aims to relieve households and modernise the system.",
+          "disclaimer": "General information, not tax or legal advice."
+        },
+        "ru": {
+          "headline": "Кипр принял первую за десятилетие масштабную налоговую реформу",
+          "summary": "Комплексная налоговая реформа Кипра 2026 года вступила в силу 1 января 2026 года: она перестраивает ступени подоходного налога, вводит новые персональные вычеты, снижает Специальный взнос на оборону с дивидендов, повышает ставку корпоративного налога до 15% и отменяет гербовый сбор по большинству сделок. Для физических лиц она меняет размер уплачиваемого подоходного налога и вводит новые вычеты — на детей, основное жильё, энергоэффективные улучшения и страхование.",
+          "body": "Реформа затрагивает всех физических лиц — налогоплательщиков Кипра. Палата представителей одобрила пакет 22 декабря 2025 года, он был опубликован в Официальной газете 31 декабря 2025 года и вступил в силу 1 января 2026 года. Реформа перестраивает ступени подоходного налога, добавляет новые персональные вычеты (на детей, основное жильё, энергоэффективные улучшения и страхование), снижает Специальный взнос на оборону с дивидендов, повышает ставку корпоративного налога до 15% и отменяет гербовый сбор по большинству сделок. Это первая за более чем десятилетие широкая налоговая реформа страны, направленная прежде всего на облегчение нагрузки на домохозяйства и модернизацию системы.",
+          "disclaimer": "Общая информация, не является налоговой или юридической консультацией."
+        },
+        "el": {
+          "headline": "Η Κύπρος θεσπίζει την πρώτη ευρεία φορολογική μεταρρύθμιση σε μια δεκαετία",
+          "summary": "Η ολοκληρωμένη φορολογική μεταρρύθμιση της Κύπρου για το 2026 τέθηκε σε ισχύ την 1η Ιανουαρίου 2026, αναδιαμορφώνοντας τις κλίμακες του φόρου εισοδήματος, προσθέτοντας νέες προσωπικές εκπτώσεις, μειώνοντας την Έκτακτη Εισφορά για την Άμυνα επί των μερισμάτων, αυξάνοντας τον εταιρικό φορολογικό συντελεστή στο 15% και καταργώντας τα τέλη χαρτοσήμου στις περισσότερες συναλλαγές. Για τα φυσικά πρόσωπα, αλλάζει το ύψος του φόρου εισοδήματος που καταβάλλουν και εισάγει νέες εκπτώσεις για παιδιά, κύρια κατοικία, ενεργειακές αναβαθμίσεις και ασφάλιση.",
+          "body": "Η μεταρρύθμιση αφορά όλα τα φυσικά πρόσωπα - φορολογούμενους στην Κύπρο. Η Βουλή των Αντιπροσώπων ενέκρινε το πακέτο στις 22 Δεκεμβρίου 2025, δημοσιεύθηκε στην Επίσημη Εφημερίδα της Δημοκρατίας στις 31 Δεκεμβρίου 2025 και τέθηκε σε ισχύ την 1η Ιανουαρίου 2026. Αναδιαμορφώνει τις κλίμακες του φόρου εισοδήματος, προσθέτει νέες προσωπικές εκπτώσεις (παιδιά, κύρια κατοικία, ενεργειακές αναβαθμίσεις και ασφάλιση), μειώνει την Έκτακτη Εισφορά για την Άμυνα επί των μερισμάτων, αυξάνει τον εταιρικό φορολογικό συντελεστή στο 15% και καταργεί τα τέλη χαρτοσήμου στις περισσότερες συναλλαγές. Είναι η πρώτη ευρεία φορολογική αναθεώρηση της χώρας εδώ και πάνω από μία δεκαετία και στοχεύει κυρίως στην ανακούφιση των νοικοκυριών και στον εκσυγχρονισμό του συστήματος.",
+          "disclaimer": "Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή."
+        }
+      },
+      "image": "images/n0001-f71a0e79.jpg",
+      "image_alt": {
+        "en": "Cyprus coastal town at sunrise with abstract renewal arrows",
+        "ru": "Кипрский прибрежный город на рассвете, абстрактные стрелки обновления",
+        "el": "Παραθαλάσσια πόλη της Κύπρου την αυγή με αφηρημένα βέλη ανανέωσης"
+      },
+      "content_hash": "996b558425130c6e1af29cd9a5cba968c2c9d5874882eabefbc71b3c25ae050f"
+    },
+    {
+      "id": "n0002-9001b98e",
+      "status": "published",
+      "published_at": "2026-01-01T08:00:00Z",
+      "legal_status": "effective",
+      "source_type": "official",
+      "effective_date": "2026-01-01",
+      "tax_year": 2026,
+      "affects_calculator": true,
+      "requires_app_update": false,
+      "source_urls": [
+        "https://cyprus-mail.com/2025/12/22/house-approves-tax-reform-bills",
+        "https://ibccs.tax/blog/cyprus-personal-income-tax-2026/",
+        "https://www.chambers.law/cyprus-tax-reform-2026-key-changes-for-individuals-and-businesses/",
+        "https://assets.kpmg.com/content/dam/kpmg/cy/pdf/2026/cyprus-tax-reform.pdf"
+      ],
+      "locales": {
+        "en": {
+          "headline": "Income tax-free threshold rises to €22,000 from 2026",
+          "summary": "From 1 January 2026 the personal income tax-free threshold rises from €19,500 to €22,000, and new progressive bands apply above it. Because the higher rates now start at higher income levels, most employees and pensioners keep more of their income.",
+          "body": "This affects everyone with taxable income in Cyprus. From 1 January 2026 the bands are: 0 to €22,000 at 0%; €22,001 to €32,000 at 20%; €32,001 to €42,000 at 25%; €42,001 to €72,000 at 30%; and over €72,000 at 35%.",
+          "disclaimer": "General information, not tax or legal advice."
+        },
+        "ru": {
+          "headline": "Необлагаемый минимум по подоходному налогу вырастет до 22 000 €",
+          "summary": "С 1 января 2026 года необлагаемый минимум по подоходному налогу повышается с 19 500 € до 22 000 €, а над ним вводятся новые прогрессивные ставки. Поскольку более высокие ставки теперь начинаются с более высоких уровней дохода, большинство работников и пенсионеров сохраняют больше своего дохода.",
+          "body": "Изменение затрагивает всех, у кого есть налогооблагаемый доход на Кипре. С 1 января 2026 года действуют ставки: от 0 до 22 000 € — 0%; от 22 001 до 32 000 € — 20%; от 32 001 до 42 000 € — 25%; от 42 001 до 72 000 € — 30%; свыше 72 000 € — 35%.",
+          "disclaimer": "Общая информация, не является налоговой или юридической консультацией."
+        },
+        "el": {
+          "headline": "Το αφορολόγητο όριο φόρου εισοδήματος αυξάνεται στις 22.000 € το 2026",
+          "summary": "Από την 1η Ιανουαρίου 2026 το αφορολόγητο όριο του φόρου εισοδήματος αυξάνεται από 19.500 € σε 22.000 €, ενώ πάνω από αυτό ισχύουν νέοι προοδευτικοί συντελεστές. Επειδή οι υψηλότεροι συντελεστές ξεκινούν πλέον σε υψηλότερα επίπεδα εισοδήματος, οι περισσότεροι εργαζόμενοι και συνταξιούχοι κρατούν μεγαλύτερο μέρος του εισοδήματός τους.",
+          "body": "Αφορά όλους όσους έχουν φορολογητέο εισόδημα στην Κύπρο. Από την 1η Ιανουαρίου 2026 ισχύουν οι εξής συντελεστές: από 0 έως 22.000 € με 0%· από 22.001 έως 32.000 € με 20%· από 32.001 έως 42.000 € με 25%· από 42.001 έως 72.000 € με 30%· και άνω των 72.000 € με 35%.",
+          "disclaimer": "Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή."
+        }
+      },
+      "image": "images/n0002-9001b98e.jpg",
+      "image_alt": {
+        "en": "Ascending blocks with coins, tax bands",
+        "ru": "Восходящие блоки с монетами — налоговые ступени",
+        "el": "Ανοδικά μπλοκ με νομίσματα, φορολογικές κλίμακες"
+      },
+      "content_hash": "18fe70654a64b49d27bbe3c23cd80cc2b5f0c28dc7e3a4e235ca580408b38e99"
+    },
+    {
+      "id": "n0003-058bef45",
+      "status": "published",
+      "published_at": "2026-01-01T08:00:00Z",
+      "legal_status": "effective",
+      "source_type": "professional_analysis",
+      "effective_date": "2026-01-01",
+      "tax_year": 2026,
+      "affects_calculator": true,
+      "requires_app_update": false,
+      "source_urls": [
+        "https://pgeconomides.eu/news/cyprus-tax-reform-2026-personal-tax-changes-impacting-payroll/",
+        "https://www.gov.cy/mof-tfa/forologiki-metarrythmisi-2026/",
+        "https://willowserve.solutions/2025/12/31/cyprus-personal-income-tax-reform-2026/"
+      ],
+      "locales": {
+        "en": {
+          "headline": "New income tax deduction for each child from 2026",
+          "summary": "From 1 January 2026, each parent can claim a new income tax deduction for every child, ranging from €1,000 to €1,500 depending on the child's order in the family. If your family income stays within the set limits, this lowers the amount of income on which you pay tax, and single parents receive double the deduction.",
+          "body": "The deduction applies per parent for each child: €1,000 for the first child, €1,250 for the second, and €1,500 for the third and each additional child. It is available only within family gross-income limits — €100,000 for families with no children or 1 to 2 children, €150,000 for 3 to 4 children, €200,000 for 5 or more children, and €40,000 for a single person — and for a single parent the deduction is doubled. It takes effect on 1 January 2026.",
+          "disclaimer": "General information, not tax or legal advice."
+        },
+        "ru": {
+          "headline": "Новый вычет по подоходному налогу на каждого ребёнка с 2026 года",
+          "summary": "С 1 января 2026 года каждый родитель может получить новый вычет по подоходному налогу на каждого ребёнка — от 1 000 до 1 500 евро в зависимости от очерёдности ребёнка в семье. Если доход семьи не превышает установленных лимитов, это уменьшает сумму дохода, с которой платится налог, а для одинокого родителя вычет удваивается.",
+          "body": "Вычет предоставляется каждому родителю на каждого ребёнка: 1 000 евро на первого ребёнка, 1 250 евро на второго и 1 500 евро на третьего и каждого последующего. Он доступен только в пределах лимитов валового дохода семьи — 100 000 евро для семей без детей или с 1-2 детьми, 150 000 евро для семей с 3-4 детьми, 200 000 евро для семей с 5 и более детьми и 40 000 евро для одинокого человека, — а для одинокого родителя вычет удваивается. Изменение вступает в силу 1 января 2026 года.",
+          "disclaimer": "Общая информация, не является налоговой или юридической консультацией."
+        },
+        "el": {
+          "headline": "Νέα έκπτωση φόρου εισοδήματος για κάθε παιδί από το 2026",
+          "summary": "Από την 1η Ιανουαρίου 2026, κάθε γονέας μπορεί να λάβει νέα έκπτωση φόρου εισοδήματος για κάθε παιδί, από 1.000 έως 1.500 € ανάλογα με τη σειρά του παιδιού στην οικογένεια. Εφόσον το εισόδημα της οικογένειας παραμένει εντός των ορίων, μειώνεται το εισόδημα επί του οποίου καταβάλλεται φόρος, ενώ για μονογονέα η έκπτωση διπλασιάζεται.",
+          "body": "Η έκπτωση παρέχεται ανά γονέα για κάθε παιδί: 1.000 € για το πρώτο παιδί, 1.250 € για το δεύτερο και 1.500 € για το τρίτο και κάθε επόμενο. Ισχύει μόνο εντός των ορίων ακαθάριστου εισοδήματος της οικογένειας — 100.000 € για οικογένειες χωρίς παιδιά ή με 1 έως 2 παιδιά, 150.000 € για 3 έως 4 παιδιά, 200.000 € για 5 ή περισσότερα παιδιά και 40.000 € για μεμονωμένο άτομο — ενώ για μονογονέα η έκπτωση διπλασιάζεται. Τίθεται σε ισχύ την 1η Ιανουαρίου 2026.",
+          "disclaimer": "Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή."
+        }
+      },
+      "image": "images/n0003-058bef45.jpg",
+      "image_alt": {
+        "en": "Cozy house with a garden swing",
+        "ru": "Уютный дом с садовыми качелями",
+        "el": "Ζεστό σπίτι με κούνια στον κήπο"
+      },
+      "content_hash": "bfc2ae9615d7b9b01540ace255a860213eeb00844e682fc4dda8a8b69d307a93"
+    },
+    {
+      "id": "n0004-94ad41a3",
+      "status": "published",
+      "published_at": "2026-01-01T08:00:00Z",
+      "legal_status": "effective",
+      "source_type": "professional_analysis",
+      "effective_date": "2026-01-01",
+      "tax_year": 2026,
+      "affects_calculator": true,
+      "requires_app_update": false,
+      "source_urls": [
+        "https://pgeconomides.eu/news/cyprus-tax-reform-2026-personal-tax-changes-impacting-payroll/",
+        "https://www.gov.cy/mof-tfa/forologiki-metarrythmisi-2026/",
+        "https://www.globalcitizensolutions.com/cyprus-tax-reform-2026/"
+      ],
+      "locales": {
+        "en": {
+          "headline": "New €2,000 deduction for home loan interest or rent",
+          "summary": "From 2026, each spouse or cohabitee can deduct up to €2,000 a year for their primary residence, covering either interest on a loan to buy or build the home or the rent paid for it. If you own or rent your main home in Cyprus, this can lower your taxable income, subject to the same family gross-income limits that apply to the child deduction.",
+          "body": "The deduction applies to individuals with a primary residence in Cyprus, whether they are buying, building, or renting. Each spouse or cohabitee may claim up to €2,000 per year — either interest on a loan to buy or build the home, or rent paid for it — and the relief is subject to the same family gross-income limits as the child deduction. It takes effect on 1 January 2026 and helps both home-buyers and tenants.",
+          "disclaimer": "General information, not tax or legal advice."
+        },
+        "ru": {
+          "headline": "Новый вычет до 2 000 € на жильё: проценты по кредиту или аренда",
+          "summary": "С 2026 года каждый из супругов или сожителей может вычесть до 2 000 € в год за основное жильё — либо проценты по кредиту на покупку или строительство дома, либо уплаченную за него аренду. Если вы владеете основным жильём на Кипре или снимаете его, это может уменьшить ваш налогооблагаемый доход при соблюдении тех же лимитов валового семейного дохода, что и для вычета на детей.",
+          "body": "Вычет распространяется на физических лиц с основным жильём на Кипре — как покупающих или строящих дом, так и арендующих. Каждый из супругов или сожителей может заявить до 2 000 € в год — либо проценты по кредиту на покупку или строительство жилья, либо уплаченную за него аренду — причём льгота подчиняется тем же лимитам валового семейного дохода, что и вычет на детей. Она вступает в силу 1 января 2026 года и помогает как покупателям жилья, так и арендаторам.",
+          "disclaimer": "Общая информация, не является налоговой или юридической консультацией."
+        },
+        "el": {
+          "headline": "Νέα έκπτωση έως 2.000 € για κύρια κατοικία: τόκοι δανείου ή ενοίκιο",
+          "summary": "Από το 2026, κάθε σύζυγος ή συμβιών μπορεί να εκπέσει έως 2.000 € ετησίως για την κύρια κατοικία του — είτε τόκους δανείου για αγορά ή ανέγερση της κατοικίας είτε το ενοίκιο που κατέβαλε για αυτήν. Αν έχετε στην ιδιοκτησία σας ή νοικιάζετε την κύρια κατοικία σας στην Κύπρο, μπορείτε να μειώσετε το φορολογητέο εισόδημά σας, υπό τα ίδια όρια ακαθάριστου οικογενειακού εισοδήματος που ισχύουν για την έκπτωση για τέκνα.",
+          "body": "Η έκπτωση αφορά φυσικά πρόσωπα με κύρια κατοικία στην Κύπρο, είτε αγοράζουν, είτε ανεγείρουν, είτε νοικιάζουν. Κάθε σύζυγος ή συμβιών μπορεί να διεκδικήσει έως 2.000 € ετησίως — είτε τόκους δανείου για αγορά ή ανέγερση της κατοικίας είτε το ενοίκιο που κατέβαλε για αυτήν — και η απαλλαγή υπόκειται στα ίδια όρια ακαθάριστου οικογενειακού εισοδήματος με την έκπτωση για τέκνα. Τίθεται σε ισχύ την 1η Ιανουαρίου 2026 και βοηθά τόσο τους αγοραστές κατοικίας όσο και τους ενοικιαστές.",
+          "disclaimer": "Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή."
+        }
+      },
+      "image": "images/n0004-94ad41a3.jpg",
+      "image_alt": {
+        "en": "House key with a house-shaped keyring",
+        "ru": "Ключ от дома с брелоком в форме дома",
+        "el": "Κλειδί σπιτιού με μπρελόκ σε σχήμα σπιτιού"
+      },
+      "content_hash": "ff2936cf34d22f99c1983d1ac8bca78e34caecdd92b350e937e07a9abf5ef96f"
+    },
+    {
+      "id": "n0005-1bfc4db6",
+      "status": "published",
+      "published_at": "2026-01-01T08:00:00Z",
+      "legal_status": "effective",
+      "source_type": "professional_analysis",
+      "effective_date": "2026-01-01",
+      "tax_year": 2026,
+      "affects_calculator": true,
+      "requires_app_update": false,
+      "source_urls": [
+        "https://pgeconomides.eu/news/cyprus-tax-reform-2026-personal-tax-changes-impacting-payroll/",
+        "https://www.gov.cy/mof-tfa/forologiki-metarrythmisi-2026/",
+        "https://www.llpolawfirm.com/2026/01/09/cyprus-tax-reform-2026/"
+      ],
+      "locales": {
+        "en": {
+          "headline": "Green spending deduction of up to €1,000 per spouse from 2026",
+          "summary": "From 1 January 2026, Cyprus grants a new deduction of up to €1,000 per spouse or cohabitee for green spending on a primary residence or a new electric vehicle. If your family income is within the limits set for the new deductions, you can reduce your taxable income by claiming eligible energy and electric-vehicle costs.",
+          "body": "The measure applies to individuals in Cyprus and grants a deduction of up to €1,000 per spouse or cohabitee for green spending: energy-efficiency systems, renewable-energy systems and electricity-storage batteries for a primary residence in Cyprus, or the purchase of a new electric vehicle. The deduction is subject to the same family gross-income limits as the other new deductions and takes effect on 1 January 2026.",
+          "disclaimer": "General information, not tax or legal advice."
+        },
+        "ru": {
+          "headline": "Новый «зелёный» вычет до 1 000 евро на каждого супруга с 2026 года",
+          "summary": "С 1 января 2026 года на Кипре вводится новый вычет до 1 000 евро на каждого супруга или сожителя за «зелёные» расходы на основное жильё или покупку нового электромобиля. Если доход вашей семьи не превышает лимиты, установленные для новых вычетов, вы сможете уменьшить налогооблагаемый доход, заявив соответствующие расходы на энергоэффективность и электромобиль.",
+          "body": "Мера касается физических лиц на Кипре и предоставляет вычет до 1 000 евро на каждого супруга или сожителя за «зелёные» расходы: системы энергоэффективности, системы возобновляемой энергии и аккумуляторы для хранения электроэнергии для основного жилья на Кипре либо покупку нового электромобиля. Вычет подпадает под те же лимиты валового дохода семьи, что и другие новые вычеты, и вступает в силу 1 января 2026 года.",
+          "disclaimer": "Общая информация, не является налоговой или юридической консультацией."
+        },
+        "el": {
+          "headline": "Νέα έκπτωση έως 1.000 € ανά σύζυγο για πράσινες δαπάνες από το 2026",
+          "summary": "Από την 1η Ιανουαρίου 2026, η Κύπρος χορηγεί νέα έκπτωση έως 1.000 € ανά σύζυγο ή συμβίο για πράσινες δαπάνες σε κύρια κατοικία ή για την αγορά νέου ηλεκτρικού οχήματος. Εάν το εισόδημα της οικογένειάς σας είναι εντός των ορίων που ισχύουν για τις νέες εκπτώσεις, μπορείτε να μειώσετε το φορολογητέο εισόδημά σας δηλώνοντας τις επιλέξιμες δαπάνες.",
+          "body": "Το μέτρο αφορά φυσικά πρόσωπα στην Κύπρο και χορηγεί έκπτωση έως 1.000 € ανά σύζυγο ή συμβίο για πράσινες δαπάνες: συστήματα ενεργειακής απόδοσης, συστήματα ανανεώσιμης ενέργειας και μπαταρίες αποθήκευσης ηλεκτρικής ενέργειας για κύρια κατοικία στην Κύπρο, ή την αγορά νέου ηλεκτρικού οχήματος. Η έκπτωση υπόκειται στα ίδια όρια ακαθάριστου οικογενειακού εισοδήματος με τις άλλες νέες εκπτώσεις και τίθεται σε ισχύ την 1η Ιανουαρίου 2026.",
+          "disclaimer": "Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή."
+        }
+      },
+      "image": "images/n0005-1bfc4db6.jpg",
+      "image_alt": {
+        "en": "House with solar panel and EV charger",
+        "ru": "Дом с солнечной панелью и зарядкой для электромобиля",
+        "el": "Σπίτι με ηλιακό πάνελ και φορτιστή ηλεκτρικού οχήματος"
+      },
+      "content_hash": "407c2148e1f7b512ad5d19f065f1112e7bcdd4efcbf14ca495813f30f6a67973"
+    },
+    {
+      "id": "n0006-269b1edf",
+      "status": "published",
+      "published_at": "2026-01-01T08:00:00Z",
+      "legal_status": "effective",
+      "source_type": "professional_analysis",
+      "effective_date": "2026-01-01",
+      "tax_year": 2026,
+      "affects_calculator": true,
+      "requires_app_update": false,
+      "source_urls": [
+        "https://www.gov.cy/mof-tfa/forologiki-metarrythmisi-2026/",
+        "https://www.llpolawfirm.com/2026/01/09/cyprus-tax-reform-2026/",
+        "https://pgeconomides.eu/news/cyprus-tax-reform-2026-personal-tax-changes-impacting-payroll/"
+      ],
+      "locales": {
+        "en": {
+          "headline": "New tax deductions for home and income insurance from 2026",
+          "summary": "From 1 January 2026, two new deductions apply with no income limit: up to 500 euro per spouse or cohabitee for insuring the home against natural-disaster risks, and premiums for permanent or partial incapacity insurance. If you insure your home or your ability to earn, you can now reduce your taxable income accordingly.",
+          "body": "The changes affect individuals in Cyprus from 1 January 2026. A deduction of up to 500 euro per spouse or cohabitee is available for insuring the home against natural-disaster risks, with no income limit. In addition, premiums for permanent or partial incapacity insurance become deductible alongside the existing life-insurance premium deduction, rewarding households that protect their home and income.",
+          "disclaimer": "General information, not tax or legal advice."
+        },
+        "ru": {
+          "headline": "Новые налоговые вычеты за страхование жилья и дохода с 2026 года",
+          "summary": "С 1 января 2026 года вводятся два новых вычета без ограничения по доходу: до 500 евро на каждого супруга или сожителя за страхование жилья от рисков стихийных бедствий, а также взносы по страхованию постоянной или частичной нетрудоспособности. Если вы страхуете своё жильё или свою способность зарабатывать, теперь вы можете уменьшить налогооблагаемый доход.",
+          "body": "Изменения касаются физических лиц на Кипре с 1 января 2026 года. Вычет до 500 евро на каждого супруга или сожителя предоставляется за страхование жилья от рисков стихийных бедствий, без ограничения по доходу. Кроме того, взносы по страхованию постоянной или частичной нетрудоспособности становятся вычитаемыми наряду с уже действующим вычетом взносов по страхованию жизни, что поощряет домохозяйства, защищающие своё жильё и доход.",
+          "disclaimer": "Общая информация, не является налоговой или юридической консультацией."
+        },
+        "el": {
+          "headline": "Νέες φορολογικές εκπτώσεις για ασφάλιση κατοικίας και εισοδήματος από το 2026",
+          "summary": "Από την 1η Ιανουαρίου 2026 ισχύουν δύο νέες εκπτώσεις χωρίς όριο εισοδήματος: έως 500 € ανά σύζυγο ή συμβιούντα για την ασφάλιση της κατοικίας έναντι κινδύνων φυσικών καταστροφών, καθώς και τα ασφάλιστρα για ασφάλιση μόνιμης ή μερικής ανικανότητας. Αν ασφαλίζετε την κατοικία σας ή την ικανότητά σας να εργάζεστε, μπορείτε πλέον να μειώσετε το φορολογητέο εισόδημά σας.",
+          "body": "Οι αλλαγές αφορούν φυσικά πρόσωπα στην Κύπρο από την 1η Ιανουαρίου 2026. Έκπτωση έως 500 € ανά σύζυγο ή συμβιούντα παρέχεται για την ασφάλιση της κατοικίας έναντι κινδύνων φυσικών καταστροφών, χωρίς όριο εισοδήματος. Επιπλέον, τα ασφάλιστρα για ασφάλιση μόνιμης ή μερικής ανικανότητας καθίστανται εκπτώσιμα παράλληλα με την υφιστάμενη έκπτωση ασφαλίστρων ζωής, επιβραβεύοντας τα νοικοκυριά που προστατεύουν την κατοικία και το εισόδημά τους.",
+          "disclaimer": "Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή."
+        }
+      },
+      "image": "images/n0006-269b1edf.jpg",
+      "image_alt": {
+        "en": "House sheltered under a protective umbrella",
+        "ru": "Дом под защитным зонтом",
+        "el": "Σπίτι κάτω από προστατευτική ομπρέλα"
+      },
+      "content_hash": "c1d8daab6abd506098532e0f9e7072a65ec3e7f0fdccd92372b459d942d666a0"
+    },
+    {
+      "id": "n0007-b4158bc6",
+      "status": "published",
+      "published_at": "2026-01-01T08:00:00Z",
+      "legal_status": "effective",
+      "source_type": "professional_analysis",
+      "effective_date": "2026-01-01",
+      "tax_year": 2026,
+      "affects_calculator": false,
+      "requires_app_update": false,
+      "source_urls": [
+        "https://www.sovereigngroup.com/news/cyprus-brings-comprehensive-tax-reform-into-force/",
+        "https://cyprus-mail.com/2025/12/22/house-approves-tax-reform-bills",
+        "https://www.gov.cy/mof-tfa/forologiki-metarrythmisi-2026/"
+      ],
+      "locales": {
+        "en": {
+          "headline": "Defence contribution on dividends cut to 5%, rent levy abolished",
+          "summary": "From 1 January 2026 the Special Defence Contribution on dividends falls from 17% to a flat 5%, and the Special Defence Contribution on rental income is abolished. If you are a Cyprus tax-resident, domiciled individual, you will pay less on dividend income and no defence contribution on rent, though rental income remains subject to income tax.",
+          "body": "The change applies from 1 January 2026 to Cyprus tax-resident, domiciled individuals who receive dividends or rental income. The Special Defence Contribution on dividends is reduced from 17% to a flat 5%, and the Special Defence Contribution on rental income is abolished. Rental income remains subject to income tax.",
+          "disclaimer": "General information, not tax or legal advice."
+        },
+        "ru": {
+          "headline": "Взнос на оборону с дивидендов снижен до 5%, с аренды — отменён",
+          "summary": "С 1 января 2026 года специальный взнос на оборону (SDC) с дивидендов снижается с 17% до единой ставки 5%, а специальный взнос на оборону с дохода от аренды отменяется. Если вы налоговый резидент Кипра с домицилием, вы будете платить меньше с дивидендов и не будете платить взнос на оборону с аренды, при этом доход от аренды по-прежнему облагается подоходным налогом.",
+          "body": "Изменение действует с 1 января 2026 года и касается физических лиц — налоговых резидентов Кипра с домицилием, которые получают дивиденды или доход от аренды. Специальный взнос на оборону с дивидендов снижается с 17% до единой ставки 5%, а специальный взнос на оборону с дохода от аренды отменяется. Доход от аренды по-прежнему облагается подоходным налогом.",
+          "disclaimer": "Общая информация, не является налоговой или юридической консультацией."
+        },
+        "el": {
+          "headline": "Αμυντική εισφορά μερισμάτων στο 5%, κατάργηση για ενοίκια",
+          "summary": "Από την 1η Ιανουαρίου 2026 η Έκτακτη Αμυντική Εισφορά στα μερίσματα μειώνεται από 17% σε ενιαίο 5%, ενώ η Έκτακτη Αμυντική Εισφορά στα εισοδήματα από ενοίκια καταργείται. Αν είστε φορολογικός κάτοικος Κύπρου με κατοικία (domiciled), θα πληρώνετε λιγότερα στα μερίσματα και καμία αμυντική εισφορά στα ενοίκια, αν και τα εισοδήματα από ενοίκια εξακολουθούν να υπόκεινται σε φόρο εισοδήματος.",
+          "body": "Η αλλαγή ισχύει από την 1η Ιανουαρίου 2026 και αφορά φυσικά πρόσωπα που είναι φορολογικοί κάτοικοι Κύπρου με κατοικία (domiciled) και λαμβάνουν μερίσματα ή εισόδημα από ενοίκια. Η Έκτακτη Αμυντική Εισφορά στα μερίσματα μειώνεται από 17% σε ενιαίο 5% και η Έκτακτη Αμυντική Εισφορά στα εισοδήματα από ενοίκια καταργείται. Τα εισοδήματα από ενοίκια εξακολουθούν να υπόκεινται σε φόρο εισοδήματος.",
+          "disclaimer": "Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή."
+        }
+      },
+      "image": "images/n0007-b4158bc6.jpg",
+      "image_alt": {
+        "en": "Apartment building with a downward arrow and coins",
+        "ru": "Многоквартирный дом со стрелкой вниз и монетами",
+        "el": "Πολυκατοικία με βέλος προς τα κάτω και νομίσματα"
+      },
+      "content_hash": "4573e4ff6c2601306350263cabce9fe306d1c73febe73e6126c6e6a55a9ffa99"
+    },
+    {
+      "id": "n0008-b223433a",
+      "status": "published",
+      "published_at": "2026-01-01T08:00:00Z",
+      "legal_status": "effective",
+      "source_type": "official",
+      "effective_date": "2026-01-01",
+      "tax_year": 2026,
+      "affects_calculator": true,
+      "requires_app_update": false,
+      "source_urls": [
+        "https://kpmg.com/cy/en/insights/tax-alerts/amendment-to-the-maximum-amount-of-insurable-earnings-for-2026.html",
+        "https://www.ktc.com.cy/social-insurance-contributions-in-cyprus/"
+      ],
+      "locales": {
+        "en": {
+          "headline": "Social insurance ceiling rises to 68,904 euro for 2026",
+          "summary": "The maximum annual insurable earnings for social insurance contributions rise to 68,904 euro in 2026. Earnings above this ceiling are not subject to social insurance contributions, which mainly affects higher earners and the self-employed.",
+          "body": "From 2026, the maximum annual insurable earnings for social insurance contributions rise to 68,904 euro, equivalent to 5,742 euro per month or 1,325 euro per week. Earnings above this ceiling are not subject to social insurance contributions. The self-employed contribution rate stays at 16.6%. This affects higher earners and the self-employed.",
+          "disclaimer": "General information, not tax or legal advice."
+        },
+        "ru": {
+          "headline": "Потолок социальных взносов повышается до 68 904 евро в 2026 году",
+          "summary": "Максимальный годовой доход, облагаемый социальными взносами, повышается до 68 904 евро в 2026 году. Доход сверх этого потолка не облагается социальными взносами, что в основном затрагивает работников с высоким доходом и самозанятых.",
+          "body": "С 2026 года максимальный годовой доход, облагаемый социальными взносами, повышается до 68 904 евро, что эквивалентно 5 742 евро в месяц или 1 325 евро в неделю. Доход сверх этого потолка не облагается социальными взносами. Ставка взносов для самозанятых остаётся на уровне 16,6%. Это затрагивает работников с высоким доходом и самозанятых.",
+          "disclaimer": "Общая информация, не является налоговой или юридической консультацией."
+        },
+        "el": {
+          "headline": "Ανώτατο όριο ασφαλιστέων αποδοχών στα 68.904 € για το 2026",
+          "summary": "Το ανώτατο ετήσιο όριο ασφαλιστέων αποδοχών για εισφορές κοινωνικών ασφαλίσεων αυξάνεται στα 68.904 € το 2026. Οι αποδοχές πάνω από αυτό το όριο δεν υπόκεινται σε εισφορές κοινωνικών ασφαλίσεων, γεγονός που αφορά κυρίως όσους έχουν υψηλά εισοδήματα και τους αυτοαπασχολούμενους.",
+          "body": "Από το 2026, το ανώτατο ετήσιο όριο ασφαλιστέων αποδοχών για εισφορές κοινωνικών ασφαλίσεων αυξάνεται στα 68.904 €, δηλαδή 5.742 € τον μήνα ή 1.325 € την εβδομάδα. Οι αποδοχές πάνω από αυτό το όριο δεν υπόκεινται σε εισφορές κοινωνικών ασφαλίσεων. Ο συντελεστής εισφορών για τους αυτοαπασχολούμενους παραμένει στο 16,6%. Αυτό αφορά όσους έχουν υψηλά εισοδήματα και τους αυτοαπασχολούμενους.",
+          "disclaimer": "Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή."
+        }
+      },
+      "image": "images/n0008-b223433a.jpg",
+      "image_alt": {
+        "en": "Protective shield with a rising line graph",
+        "ru": "Защитный щит с растущим графиком",
+        "el": "Προστατευτική ασπίδα με ανοδικό γράφημα"
+      },
+      "content_hash": "fbb79963e4df7016b61822d55a8ca61dcb30c4780a5ae80a52670c61e493b415"
+    },
+    {
+      "id": "n0009-c8febf02",
+      "status": "published",
+      "published_at": "2026-07-01T08:00:00Z",
+      "legal_status": "effective",
+      "source_type": "official",
+      "effective_date": "2026-07-01",
+      "tax_year": 2026,
+      "affects_calculator": false,
+      "requires_app_update": false,
+      "source_urls": [
+        "https://cyprus-mail.com/2026/07/01/rents-to-be-paid-electronically-as-of-july-1",
+        "https://ibccs.tax/blog/cyprus-rent-payment-rules-2026/",
+        "https://www.harriskyriakides.law/insights/news/cyprus-electronic-rent-payments-july-2026/",
+        "https://www.oeb.org.cy/en/mandatory-payment-of-rent-by-electronic-means-of-payment-from-july-1-2026/"
+      ],
+      "locales": {
+        "en": {
+          "headline": "Rent in Cyprus must be paid electronically from 1 July 2026",
+          "summary": "From 1 July 2026, rent in Cyprus can no longer be paid in cash and must go through a bank transfer, card or another recognised electronic method. If you rent a home, arrange an electronic payment method with your landlord and keep the records.",
+          "body": "Under new Article 48A of the Assessment and Collection of Taxes Law, from 1 July 2026 all rent in Cyprus must be paid by bank transfer, card or another recognised electronic method; cash payment of rent is no longer allowed. The rule applies to all landlords and tenants, both individuals and companies, with no minimum amount. A business that keeps paying rent in cash loses the right to deduct that expense from its taxable income, so keep the electronic payment records as proof.",
+          "disclaimer": "General information, not tax or legal advice."
+        },
+        "ru": {
+          "headline": "С 1 июля 2026 года аренду на Кипре нужно оплачивать безналично",
+          "summary": "С 1 июля 2026 года аренду на Кипре больше нельзя оплачивать наличными — оплата должна проходить банковским переводом, картой или другим признанным электронным способом. Если вы снимаете жильё, договоритесь с арендодателем об электронном способе оплаты и сохраняйте подтверждения.",
+          "body": "Согласно новой статье 48A Закона о начислении и взимании налогов, с 1 июля 2026 года любая аренда на Кипре должна оплачиваться банковским переводом, картой или другим признанным электронным способом; оплата аренды наличными больше не допускается. Правило распространяется на всех арендодателей и арендаторов, как физических, так и юридических лиц, без минимальной суммы. Компания, которая продолжает платить за аренду наличными, теряет право вычесть этот расход из налогооблагаемого дохода, поэтому сохраняйте подтверждения электронной оплаты.",
+          "disclaimer": "Общая информация, не является налоговой или юридической консультацией."
+        },
+        "el": {
+          "headline": "Από 1 Ιουλίου 2026 το ενοίκιο στην Κύπρο πληρώνεται ηλεκτρονικά",
+          "summary": "Από την 1η Ιουλίου 2026 το ενοίκιο στην Κύπρο δεν μπορεί πλέον να πληρώνεται με μετρητά και πρέπει να καταβάλλεται με τραπεζικό έμβασμα, κάρτα ή άλλη αναγνωρισμένη ηλεκτρονική μέθοδο. Αν νοικιάζετε κατοικία, συμφωνήστε με τον ιδιοκτήτη έναν ηλεκτρονικό τρόπο πληρωμής και κρατήστε τα αποδεικτικά.",
+          "body": "Σύμφωνα με το νέο Άρθρο 48A του περί Βεβαιώσεως και Εισπράξεως Φόρων Νόμου, από την 1η Ιουλίου 2026 κάθε ενοίκιο στην Κύπρο πρέπει να πληρώνεται με τραπεζικό έμβασμα, κάρτα ή άλλη αναγνωρισμένη ηλεκτρονική μέθοδο· η πληρωμή ενοικίου με μετρητά δεν επιτρέπεται πλέον. Ο κανόνας ισχύει για όλους τους ιδιοκτήτες και ενοικιαστές, φυσικά και νομικά πρόσωπα, χωρίς κατώτατο ποσό. Μια επιχείρηση που συνεχίζει να πληρώνει ενοίκιο με μετρητά χάνει το δικαίωμα να εκπέσει τη δαπάνη αυτή από το φορολογητέο εισόδημά της, γι' αυτό κρατήστε τα αποδεικτικά ηλεκτρονικής πληρωμής.",
+          "disclaimer": "Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή."
+        }
+      },
+      "image": "images/n0009-c8febf02.jpg",
+      "image_alt": {
+        "en": "Smartphone transferring money to a house",
+        "ru": "Смартфон переводит деньги на дом",
+        "el": "Smartphone που μεταφέρει χρήματα σε ένα σπίτι"
+      },
+      "content_hash": "8e5ecab2c7ce1067c7be3b050c7779b759b0c82a844e8a1ef2826017f0fd9d8e"
+    },
+    {
+      "id": "n0010-bc200932",
+      "status": "published",
+      "published_at": "2026-01-01T08:00:00Z",
+      "legal_status": "effective",
+      "source_type": "official",
+      "effective_date": "2026-01-01",
+      "tax_year": 2026,
+      "affects_calculator": false,
+      "requires_app_update": false,
+      "source_urls": [
+        "https://www.chambers.law/cyprus-tax-reform-2026-key-changes-for-individuals-and-businesses/",
+        "https://cyprus-mail.com/2025/12/22/house-approves-tax-reform-bills"
+      ],
+      "locales": {
+        "en": {
+          "headline": "Stamp duty abolished on most documents from 1 January 2026",
+          "summary": "From 1 January 2026, stamp duty is abolished on most documents and transactions under the Stamp Duty (Repealing) Law 239(I) of 2025. For most everyday agreements you no longer pay any stamp-duty cost, though a few specific cases may still attract duty.",
+          "body": "The change affects individuals and businesses entering into most everyday agreements. From 1 January 2026, under the Stamp Duty (Repealing) Law 239(I) of 2025, stamp duty is abolished on most documents and transactions, so these no longer carry a stamp-duty cost. A few specific cases, such as certain immovable-property and banking-security documents, may still attract duty.",
+          "disclaimer": "General information, not tax or legal advice."
+        },
+        "ru": {
+          "headline": "Гербовый сбор отменён на большинство документов с 1 января 2026 года",
+          "summary": "С 1 января 2026 года гербовый сбор отменяется на большинство документов и сделок согласно Закону об отмене гербового сбора 239(I) 2025 года. Для большинства повседневных договоров гербовый сбор больше не взимается, хотя в отдельных случаях он может сохраняться.",
+          "body": "Изменение касается физических лиц и компаний, заключающих большинство повседневных договоров. С 1 января 2026 года согласно Закону об отмене гербового сбора 239(I) 2025 года гербовый сбор отменяется на большинство документов и сделок, поэтому за них больше не нужно платить гербовый сбор. В отдельных случаях, например для некоторых документов о недвижимости и банковском обеспечении, сбор может по-прежнему взиматься.",
+          "disclaimer": "Общая информация, не является налоговой или юридической консультацией."
+        },
+        "el": {
+          "headline": "Κατάργηση των τελών χαρτοσήμου στα περισσότερα έγγραφα από 1 Ιανουαρίου 2026",
+          "summary": "Από 1 Ιανουαρίου 2026 καταργούνται τα τέλη χαρτοσήμου στα περισσότερα έγγραφα και στις περισσότερες συναλλαγές, βάσει του περί Χαρτοσήμου (Καταργητικού) Νόμου 239(Ι) του 2025. Για τις περισσότερες καθημερινές συμφωνίες δεν υπάρχει πλέον κόστος χαρτοσήμου, αν και ορισμένες ειδικές περιπτώσεις ενδέχεται να εξακολουθούν να υπόκεινται σε τέλος.",
+          "body": "Η αλλαγή αφορά φυσικά πρόσωπα και επιχειρήσεις που συνάπτουν τις περισσότερες καθημερινές συμφωνίες. Από 1 Ιανουαρίου 2026, βάσει του περί Χαρτοσήμου (Καταργητικού) Νόμου 239(Ι) του 2025, καταργούνται τα τέλη χαρτοσήμου στα περισσότερα έγγραφα και στις περισσότερες συναλλαγές, οπότε αυτά δεν φέρουν πλέον κόστος χαρτοσήμου. Ορισμένες ειδικές περιπτώσεις, όπως ορισμένα έγγραφα ακίνητης ιδιοκτησίας και τραπεζικών εξασφαλίσεων, ενδέχεται να εξακολουθούν να υπόκεινται σε τέλος.",
+          "disclaimer": "Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή."
+        }
+      },
+      "image": "images/n0010-bc200932.jpg",
+      "image_alt": {
+        "en": "A rubber stamp with a crossed-out circle",
+        "ru": "Штамп с перечёркнутым кругом",
+        "el": "Σφραγίδα με διαγραμμένο κύκλο"
+      },
+      "content_hash": "c5cabfdc6836284059990d24a8ec4cbdaaae7403c4550479ef5ec738c370ad9c"
+    }
+  ]
 }
