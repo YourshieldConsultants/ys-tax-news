@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "feed_version": 2,
-  "generated_at": "2026-07-19T11:48:35Z",
+  "feed_version": 3,
+  "generated_at": "2026-07-19T12:57:06Z",
   "articles": [
     {
       "id": "n0011-4ed5e6d3",
-      "status": "published",
+      "status": "unpublished",
       "published_at": "2026-07-19T11:48:35Z",
       "legal_status": "informational",
       "source_type": "media",
