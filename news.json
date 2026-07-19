@@ -1,8 +1,43 @@
 {
   "schema_version": 1,
-  "feed_version": 1,
-  "generated_at": "2026-07-18T18:45:00Z",
+  "feed_version": 2,
+  "generated_at": "2026-07-19T11:48:35Z",
   "articles": [
+    {
+      "id": "n0011-4ed5e6d3",
+      "status": "published",
+      "published_at": "2026-07-19T11:48:35Z",
+      "legal_status": "informational",
+      "source_type": "media",
+      "tax_year": 2026,
+      "affects_calculator": true,
+      "requires_app_update": false,
+      "source_urls": [
+        "https://cyprus-mail.com/2026/06/14/the-cash-you-may-no-longer-use"
+      ],
+      "locales": {
+        "en": {
+          "headline": "Reported electronic-only rent payments from 1 July 2026",
+          "summary": "A Cyprus Mail guest column reports that rent for property in Cyprus must be paid through recognised electronic methods from 1 July 2026. The report says the rule applies regardless of rent amount or property use and may affect the deductibility of cash-paid rent for businesses.",
+          "body": "According to the press report, the 2026 tax reform introduced a rule requiring rent payments for immovable property in the Republic to be made by bank transfer, debit card, credit card or another recognised electronic method from 1 July 2026; landlords would also be prohibited from accepting other payment methods. It states that there is no minimum amount and that a business paying rent in cash may lose the income-tax deduction for that expense. This is a press report and should be verified against a government source. General information, not tax or legal advice.",
+          "disclaimer": "General information, not tax or legal advice."
+        },
+        "ru": {
+          "headline": "Сообщается об оплате аренды только электронно с 1 июля 2026 года",
+          "summary": "В гостевой колонке Cyprus Mail сообщается, что с 1 июля 2026 года аренду недвижимости на Кипре нужно будет оплачивать признанными электронными способами. По данным публикации, правило не зависит от суммы аренды или назначения объекта и может повлиять на вычет расходов бизнеса при оплате наличными.",
+          "body": "Согласно публикации в прессе, реформа-2026 ввела правило, по которому арендная плата за недвижимость в Республике с 1 июля 2026 года должна перечисляться банковским переводом, дебетовой или кредитной картой либо другим признанным электронным способом; арендодателям также будет запрещено принимать оплату иным способом. В статье указано, что минимального порога нет, а бизнес при оплате аренды наличными может лишиться вычета этого расхода по подоходному налогу. Это сообщение прессы; информацию следует проверить по государственному источнику. Общая информация, не является налоговой или юридической консультацией.",
+          "disclaimer": "Общая информация, не является налоговой или юридической консультацией."
+        },
+        "el": {
+          "headline": "Αναφέρεται υποχρεωτική ηλεκτρονική πληρωμή ενοικίων από 1 Ιουλίου 2026",
+          "summary": "Σύμφωνα με άρθρο γνώμης στην Cyprus Mail, από την 1η Ιουλίου 2026 τα ενοίκια για ακίνητα στην Κύπρο θα πρέπει να πληρώνονται με αναγνωρισμένα ηλεκτρονικά μέσα. Το δημοσίευμα αναφέρει ότι ο κανόνας δεν εξαρτάται από το ποσό ή τη χρήση του ακινήτου και ενδέχεται να επηρεάζει την έκπτωση δαπάνης επιχειρήσεων όταν η πληρωμή γίνεται με μετρητά.",
+          "body": "Σύμφωνα με το δημοσίευμα, η φορολογική μεταρρύθμιση του 2026 εισήγαγε κανόνα βάσει του οποίου τα ενοίκια για ακίνητα στη Δημοκρατία πρέπει, από την 1η Ιουλίου 2026, να καταβάλλονται με τραπεζική μεταφορά, χρεωστική ή πιστωτική κάρτα ή άλλο αναγνωρισμένο ηλεκτρονικό μέσο· οι εκμισθωτές επίσης δεν θα μπορούν να δέχονται άλλη μέθοδο πληρωμής. Το άρθρο αναφέρει ότι δεν υπάρχει ελάχιστο όριο και ότι επιχείρηση που καταβάλλει ενοίκιο με μετρητά μπορεί να χάσει την έκπτωση της δαπάνης για σκοπούς φόρου εισοδήματος. Πρόκειται για δημοσίευμα Τύπου και η πληροφορία πρέπει να επαληθευθεί από κρατική πηγή. Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή.",
+          "disclaimer": "Γενική ενημέρωση, δεν αποτελεί φορολογική ή νομική συμβουλή."
+        }
+      },
+      "content_hash": "cca9ebaba854f1a14b3e90240e967fde1c3afbbe64ba501b6e30620fb9b2f150",
+      "image": "images/n0011-4ed5e6d3.jpg"
+    },
     {
       "id": "n0009-c8febf02",
       "status": "published",
