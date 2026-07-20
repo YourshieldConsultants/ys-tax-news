@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "feed_version": 3,
-  "generated_at": "2026-07-19T12:57:06Z",
+  "feed_version": 4,
+  "generated_at": "2026-07-20T08:38:45Z",
   "articles": [
     {
       "id": "n0011-4ed5e6d3",
@@ -41,7 +41,7 @@
     {
       "id": "n0009-c8febf02",
       "status": "published",
-      "published_at": "2026-06-26T08:00:00Z",
+      "published_at": "2026-06-26T10:01:00Z",
       "legal_status": "effective",
       "source_type": "official",
       "effective_date": "2026-07-01",
@@ -80,12 +80,12 @@
         "ru": "Смартфон переводит деньги на дом",
         "el": "Smartphone που μεταφέρει χρήματα σε ένα σπίτι"
       },
-      "content_hash": "4b48937611a56a3aced7f64f33e44525e45216a79c751bc2e3bbbbf5791649bc"
+      "content_hash": "ec8bac092a5c9e8bd14a5badda93c43a660800f272f2c36252698aa176b60320"
     },
     {
       "id": "n0007-b4158bc6",
       "status": "published",
-      "published_at": "2026-02-10T08:00:00Z",
+      "published_at": "2026-02-10T07:38:00Z",
       "legal_status": "effective",
       "source_type": "professional_analysis",
       "effective_date": "2026-01-01",
@@ -123,12 +123,12 @@
         "ru": "Многоквартирный дом со стрелкой вниз и монетами",
         "el": "Πολυκατοικία με βέλος προς τα κάτω και νομίσματα"
       },
-      "content_hash": "40c66fef0c2a50734d92403a1a8c866c4ecdcc36dee02637a5de00feda10f564"
+      "content_hash": "537cebebf68308067872ed411747ead97cb5d62b9bbc79dd0befca7cf62524ee"
     },
     {
       "id": "n0006-269b1edf",
       "status": "published",
-      "published_at": "2026-01-27T08:00:00Z",
+      "published_at": "2026-01-27T11:22:00Z",
       "legal_status": "effective",
       "source_type": "professional_analysis",
       "effective_date": "2026-01-01",
@@ -166,12 +166,12 @@
         "ru": "Дом под защитным зонтом",
         "el": "Σπίτι κάτω από προστατευτική ομπρέλα"
       },
-      "content_hash": "056290fde26ddbe12b399b0fa4a6eb6cdd5d669fb3fad1eec90b95867b9b8006"
+      "content_hash": "da014cb977a2f340ec2120201cb41a4f027fc857007c257a834c7bca788a98bc"
     },
     {
       "id": "n0005-1bfc4db6",
       "status": "published",
-      "published_at": "2026-01-21T08:00:00Z",
+      "published_at": "2026-01-21T14:37:00Z",
       "legal_status": "effective",
       "source_type": "professional_analysis",
       "effective_date": "2026-01-01",
@@ -209,12 +209,12 @@
         "ru": "Дом с солнечной панелью и зарядкой для электромобиля",
         "el": "Σπίτι με ηλιακό πάνελ και φορτιστή ηλεκτρικού οχήματος"
       },
-      "content_hash": "6c0216f11a7efc8204729e4bb6705ac52d438e28a3995a3a795337a1a79928c8"
+      "content_hash": "ce8661eb2c8569335a40d94427ad7ed0a3c60e1815145fef89f25c50ea313237"
     },
     {
       "id": "n0004-94ad41a3",
       "status": "published",
-      "published_at": "2026-01-16T08:00:00Z",
+      "published_at": "2026-01-16T09:03:00Z",
       "legal_status": "effective",
       "source_type": "professional_analysis",
       "effective_date": "2026-01-01",
@@ -252,12 +252,12 @@
         "ru": "Ключ от дома с брелоком в форме дома",
         "el": "Κλειδί σπιτιού με μπρελόκ σε σχήμα σπιτιού"
       },
-      "content_hash": "8d510d72a0d0373ab5ccb44edc9171977dbac1ffd6f5b0cee174e0fda01b6bbc"
+      "content_hash": "565917a9240618081bf0f75731cd75f802a3fb124bef8dd9042fd61f77ffd802"
     },
     {
       "id": "n0003-058bef45",
       "status": "published",
-      "published_at": "2026-01-13T08:00:00Z",
+      "published_at": "2026-01-13T14:23:00Z",
       "legal_status": "effective",
       "source_type": "professional_analysis",
       "effective_date": "2026-01-01",
@@ -295,12 +295,12 @@
         "ru": "Уютный дом с садовыми качелями",
         "el": "Ζεστό σπίτι με κούνια στον κήπο"
       },
-      "content_hash": "b00734bbf60455e3acb009c7dae4c32ddbbaa8b5c8332709c92d0f5b6e4fd805"
+      "content_hash": "f58ba53ec0e8eb3eb8c166402c74ef49cdf337c41bad44aa6b0b1a4ed037e16e"
     },
     {
       "id": "n0010-bc200932",
       "status": "published",
-      "published_at": "2026-01-08T08:00:00Z",
+      "published_at": "2026-01-08T13:42:00Z",
       "legal_status": "effective",
       "source_type": "official",
       "effective_date": "2026-01-01",
@@ -337,12 +337,12 @@
         "ru": "Штамп с перечёркнутым кругом",
         "el": "Σφραγίδα με διαγραμμένο κύκλο"
       },
-      "content_hash": "6e22ab1e7a1aca8b017c783935ca35abc7b68de4e0de1fca12382d55513fa02a"
+      "content_hash": "5ae35424ffc44231e1ff075cecc0121974e8d555d4236b1ad9ebea48bdbc0890"
     },
     {
       "id": "n0008-b223433a",
       "status": "published",
-      "published_at": "2026-01-06T08:00:00Z",
+      "published_at": "2026-01-06T15:40:00Z",
       "legal_status": "effective",
       "source_type": "official",
       "effective_date": "2026-01-01",
@@ -379,12 +379,12 @@
         "ru": "Защитный щит с растущим графиком",
         "el": "Προστατευτική ασπίδα με ανοδικό γράφημα"
       },
-      "content_hash": "763dd587a039249a2df75d96d6bf3d66558be05ce9fabab1017575efcfd5865f"
+      "content_hash": "9699c090d99edcd0bf9052fb02a884cd2c17a5b6f8ca95a8377bc45bc621838d"
     },
     {
       "id": "n0002-9001b98e",
       "status": "published",
-      "published_at": "2026-01-03T08:00:00Z",
+      "published_at": "2026-01-03T11:02:00Z",
       "legal_status": "effective",
       "source_type": "official",
       "effective_date": "2026-01-01",
@@ -423,12 +423,12 @@
         "ru": "Восходящие блоки с монетами — налоговые ступени",
         "el": "Ανοδικά μπλοκ με νομίσματα, φορολογικές κλίμακες"
       },
-      "content_hash": "ada231c6fbea87cc01696ce86797ae3ff492a12610bd65617920c810fb142e9b"
+      "content_hash": "86f6aeb052bb498730c751a9c8083911753056ff3283fce04a5ac5f4acbc34c8"
     },
     {
       "id": "n0001-f71a0e79",
       "status": "published",
-      "published_at": "2026-01-02T08:00:00Z",
+      "published_at": "2026-01-02T10:08:00Z",
       "legal_status": "effective",
       "source_type": "official",
       "effective_date": "2026-01-01",
@@ -467,7 +467,7 @@
         "ru": "Кипрский прибрежный город на рассвете, абстрактные стрелки обновления",
         "el": "Παραθαλάσσια πόλη της Κύπρου την αυγή με αφηρημένα βέλη ανανέωσης"
       },
-      "content_hash": "78cf56192057c57fdccb9dff25332d54001efe0bfb196be4d458c1e78197e594"
+      "content_hash": "97b9f777a956b3b1f34bc372c0afd14c4d39a29230a1fa63265d2cfdcd789681"
     }
   ]
 }
